@@ -1,8 +1,7 @@
-## ✔ IMAGE ENCRYPTION DECRYPTION
-- An Image Encryption Decryption is an image processing application created in python with tkinter gui and OpenCv library.
-- In this application user can select an image and can encrypt that image to gray scale image and can even decrpyt also.
-- Also after encrypting and decrypting user can also save the edited image anywhere in the local system.
-- Also there is option to reset to the original image.
+## Image-Cryptographer
+- Image Encryption Decryption application using Python with tkinter GUI and OpenCV library, allowing users to encrypt and decrypt selected images in grayscale format.
+- Enables to save the edited images
+- Has a reset function that allows to revert back to the original image after encryption or decryption
 
 <p align = "center">
 	<img src = "https://img.shields.io/github/stars/akash-rajak/Image-Encryption-Decryption?style=social", alt = "GitHub Repo stars">
